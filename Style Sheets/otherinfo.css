@@ -1,13 +1,10 @@
 .container {
   display: flex;
-  align-items: flex-start;
-  padding-left: 20px;
-  padding-right: 50px;
+  gap: 10px;
 }
 
-.column {
-  flex: 1;
-  margin-right: 20px;
+p {
+  background-color: #5c9700;
 }
 
 p {
