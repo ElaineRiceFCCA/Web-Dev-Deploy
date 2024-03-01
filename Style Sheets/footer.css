@@ -1,0 +1,16 @@
+.bottom_nav {
+  border-bottom: 50px solid #e8a000;
+  margin-top: 20px;
+  position: relative;
+}
+
+.bottom_nav p {
+  position: absolute;
+  bottom: -35px;
+  left: 35%;
+  transform: translateX(-25%);
+  margin: 0;
+  font-size: 17px;
+  font-family: monospace;
+  color: white;
+}

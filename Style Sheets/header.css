@@ -1,0 +1,42 @@
+.top_nav {
+  overflow: hidden;
+  background-color: #e8a000;
+  border-bottom: 20px solid #5c9700;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.top_nav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 30px 20px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-bottom: 0;
+  font-family: monospace;
+}
+
+.top_nav a:hover {
+  background-color: #5c9700;
+  color: white;
+}
+
+.logo {
+  float: left;
+  margin: 15px;
+  width: 100px;
+  height: auto;
+}
+
+h2 {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 30px 20px;
+  text-decoration: none;
+  font-size: 30px;
+  margin-bottom: 0;
+  font-family: monospace;
+}

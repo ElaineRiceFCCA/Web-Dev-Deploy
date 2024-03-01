@@ -1,0 +1,30 @@
+.grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-top: 175px;
+}
+
+.grid-item {
+  margin: 20px;
+  background-color: #5c9700;
+  text-align: center;
+  line-height: 100px;
+  width: calc(30% - 10px);
+  height: calc(30% - 10px);
+}
+
+.grid-item a {
+  text-decoration: none;
+  color: white;
+  font-family: monospace;
+  font-size: 17px;
+}
+
+html {
+  background-color: #dfd8ae;
+}
+
+a {
+  color: #5c9700;
+}
